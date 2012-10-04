@@ -1,0 +1,15 @@
+<project>
+	<modelVersion> 4.0.0</modelVersion>
+
+	<groupId>FMIN362</groupId>
+	<artifactId>helloworld</artifactId>
+	<version>0.1</version>
+	
+<dependencies>
+  <dependency>
+     <groupId>junit</groupId>
+     <artifactId>junit</artifactId>
+     <version>4.10</version>
+  </dependency>
+</dependencies>
+</project>
